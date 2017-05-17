@@ -1,0 +1,35 @@
+body {
+  background: #a30404;
+  font-family: 'Raleway', Arial, sans-serif;
+  font-size: 100%;
+  color: #fffef4;
+  text-align: center;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+li {
+  font-size: .7em;
+  list-style-type: none;
+  position: relative;
+}
+
+li span {
+  font-family: 'Indie Flower', cursive;
+  font-size: 7em;
+  position: relative;
+  top: 35px;
+  display: inline-block;
+  padding: 10px 10px 0 0;
+}
+
+em {
+  font-family: 'Courgette', cursive;
+  font-size: 2em;
+  position: relative;
+  left: -40px;
+  top: 30px;
+}
